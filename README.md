@@ -29,10 +29,10 @@ A Python tool for scanning JavaScript files in web applications to detect expose
 Clone the repository and install the packages 
 
 ```bash
-https://github.com/mahaveer-choudhary/JSniff.git
+https://github.com/singh-sahab-rj05/javascript_sniffer
 ```
 ```bash
-cd JSniff
+cd javascript_sniffer
 ```
 ```bash
 pip install -r requirements.txt --break-system-packages
